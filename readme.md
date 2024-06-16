@@ -5,6 +5,8 @@
 - [【ChatGPT】黒歴史ブログの文章を生成した](https://qiita.com/neriumezui/items/5ab61b8c848f48c8a207)
   - 友人の黒歴史ブログを無限に生成する
 ## note
+- [【GPT-4o】イマジナリーペルレイノでティアラメンツのみんなとおしゃべりする【遊戯王OCG】](https://note.com/neriumezui/n/n0d6c24ea92f2)
+  - 彼女を"作る"第二弾．ティアラメンツのみんなと付き合う話．
 - [彼女を"作る"](https://note.com/neriumezui/n/nf81b6de3deac)
   - 文章生成AIを彼女にしようとしたけどフラれた話．
 - [ぺたふぁん温泉旅行部: 精算の効率化](https://note.com/neriumezui/n/n49ac8d32454e)
