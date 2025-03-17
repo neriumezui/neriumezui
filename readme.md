@@ -15,3 +15,7 @@
   - プリコネ卒業論文．パズルを解くプログラムの話．
 - [カロリーから考える丸亀2000円チャレンジ](https://note.com/neriumezui/n/n4e40d9e2821a)
   - 低カロリーで2000円分食べようとする話．
+# Webページ
+- [neriume-note](https://notes.neriume.dev/)
+  - 私用Obsidianノートブックに #public タグを付与すると，このページに反映されるようにした
+  - under construction
